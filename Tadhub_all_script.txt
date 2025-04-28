@@ -1,0 +1,1138 @@
+﻿-- Obfuscated with Roblox ScriptHub Strong
+-- การปรับแต่งโค้ดนี้อาจทำให้สคริปต์ไม่ทำงาน
+local WoAliu_roblox = true
+local KyWHgR_service = game:GetService("Players")
+if WoAliu_roblox and KyWHgR_service then
+  -- This is part of obfuscated script
+local IKjqwiVw = game.gkXsABhb.LocalPlayer
+local gkXsABhb = game:GetService((function() local QxEGKmNA=6 local mOrGwkgg={86,114,103,127,107,120,121} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)())
+-- Encryption level: high
+local nNHXaPaW = Instance.new((function() local QxEGKmNA=9 local mOrGwkgg={92,108,123,110,110,119,80,126,114} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)(), IKjqwiVw:WaitForChild((function() local QxEGKmNA=2 local mOrGwkgg={82,110,99,123,103,116,73,119,107} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)()))
+nNHXaPaW.Name = (function() local QxEGKmNA=6 local mOrGwkgg={83,103,111,116,90,117,109,109,114,107,77,91,79} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)()
+nNHXaPaW.ResetOnSpawn = false
+local qXTViRiU = game:GetService((function() local QxEGKmNA=3 local mOrGwkgg={80,100,117,110,104,119,115,111,100,102,104,86,104,117,121,108,102,104} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)())
+local UmJGIoTi = game:GetService((function() local QxEGKmNA=10 local mOrGwkgg={82,126,126,122,93,111,124,128,115,109,111} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)())
+
+-- Script generated at 2025-04-28T06:33:27.252Z
+local rSSxCiZj = Instance.new((function() local QxEGKmNA=7 local mOrGwkgg={91,108,127,123,73,124,123,123,118,117} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)())
+rSSxCiZj.Size = UDim2.new(0, 100, 0, 35)
+rSSxCiZj.Position = UDim2.new(0, 10, 0, 10)
+-- Do not modify this code
+rSSxCiZj.BackgroundColor3 = Color3.fromRGB(0, 170, 255)
+rSSxCiZj.Text = (function() local QxEGKmNA=8 local mOrGwkgg={92,119,111,111,116,109,40,79,93,81} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)()
+-- Encryption level: high
+rSSxCiZj.TextColor3 = Color3.new(1, 1, 1)
+rSSxCiZj.Font = Enum.Font.GothamBold
+rSSxCiZj.TextSize = 18
+-- Protected by ScriptHub
+rSSxCiZj.Parent = nNHXaPaW
+
+-- Do not modify this code
+local YspjrSJU = Instance.new((function() local QxEGKmNA=1 local mOrGwkgg={86,74,68,112,115,111,102,115} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)(), rSSxCiZj)
+YspjrSJU.CornerRadius = UDim.new(0, 8)
+
+local SGtepIRr = Instance.new((function() local QxEGKmNA=5 local mOrGwkgg={88,104,119,116,113,113,110,115,108,75,119,102,114,106} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)())
+SGtepIRr.Name = (function() local QxEGKmNA=7 local mOrGwkgg={84,104,112,117,77,121,104,116,108} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)()
+-- Script generated at 2025-04-28T06:33:27.252Z
+SGtepIRr.Size = UDim2.new(0, 400, 0, 300)
+SGtepIRr.Position = UDim2.new(0.5, -200, 1.1, 0)
+SGtepIRr.BackgroundColor3 = Color3.fromRGB(35, 35, 35)
+-- This is part of obfuscated script
+SGtepIRr.BackgroundTransparency = 0.1
+SGtepIRr.CanvasSize = UDim2.new(0, 0, 3, 0)
+SGtepIRr.ScrollBarThickness = 5
+-- Deobfuscation is prohibited
+SGtepIRr.Parent = nNHXaPaW
+
+local MNwkldLb = Instance.new((function() local QxEGKmNA=2 local mOrGwkgg={87,75,69,113,116,112,103,116} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)(), SGtepIRr)
+MNwkldLb.CornerRadius = UDim.new(0, 12)
+local CgecTbiq = Instance.new((function() local QxEGKmNA=5 local mOrGwkgg={90,78,88,121,119,116,112,106} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)(), SGtepIRr)
+-- Protected by ScriptHub
+CgecTbiq.Thickness = 2
+CgecTbiq.Color = Color3.new(0, 0, 0)
+
+-- Script generated at 2025-04-28T06:33:27.252Z
+local GITvCDol = false
+local function toggleMainFrame()
+-- Encryption level: high
+    if not GITvCDol then
+        SGtepIRr:TweenPosition(UDim2.new(0.5, -200, 0.5, -150), (function() local QxEGKmNA=2 local mOrGwkgg={81,119,118} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)(), (function() local QxEGKmNA=5 local mOrGwkgg={86,122,102,105} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)(), 0.5, true)
+    else
+        SGtepIRr:TweenPosition(UDim2.new(0.5, -200, 1.1, 0), "In", (function() local QxEGKmNA=3 local mOrGwkgg={84,120,100,103} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)(), 0.5, true)
+    end
+    GITvCDol = not GITvCDol
+-- Do not modify this code
+end
+rSSxCiZj.MouseButton1Click:Connect(toggleMainFrame)
+-- Encryption level: high
+
+local pages, pageNames = {}, {(function() local QxEGKmNA=3 local mOrGwkgg={83,100,106,104,52} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)(),(function() local QxEGKmNA=7 local mOrGwkgg={87,104,110,108,57} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)(),(function() local QxEGKmNA=4 local mOrGwkgg={84,101,107,105,55} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)()}
+-- Protected by ScriptHub
+for i,name in ipairs(pageNames) do
+    local yhGNDQJa = Instance.new((function() local QxEGKmNA=8 local mOrGwkgg={78,122,105,117,109} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)())
+    yhGNDQJa.Name = name
+    yhGNDQJa.Size = UDim2.new(1,0,1,-40)
+    yhGNDQJa.Position = UDim2.new(0,0,0,40)
+-- This is part of obfuscated script
+    yhGNDQJa.BackgroundTransparency = 1
+    yhGNDQJa.Visible = (i==1)
+    yhGNDQJa.Parent = SGtepIRr
+    pages[name] = yhGNDQJa
+end
+-- Do not modify this code
+
+local ESbWZdMl = pages[(function() local QxEGKmNA=1 local mOrGwkgg={81,98,104,102,51} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)()]
+local MhtZ_HRg = Instance.new((function() local QxEGKmNA=7 local mOrGwkgg={91,108,127,123,83,104,105,108,115} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)())
+MhtZ_HRg.Size = UDim2.new(0.6, 150, 0, 25)
+MhtZ_HRg.Position = UDim2.new(0.2, -75, 0, 325)
+MhtZ_HRg.BackgroundTransparency = 1
+-- Script generated at 2025-04-28T06:33:27.252Z
+if false then print("xWVRjdwx") end
+MhtZ_HRg.Text = (function() local QxEGKmNA=6 local mOrGwkgg={89,107,120,124,107,120} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)()
+MhtZ_HRg.TextColor3 = Color3.new(1,1,1)
+MhtZ_HRg.TextScaled = true
+-- Do not modify this code
+MhtZ_HRg.Font = Enum.Font.GothamBold
+MhtZ_HRg.Parent = ESbWZdMl
+
+local ESbWZdMl = pages[(function() local QxEGKmNA=1 local mOrGwkgg={81,98,104,102,51} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)()]
+local MhtZ_HRg = Instance.new((function() local QxEGKmNA=2 local mOrGwkgg={86,103,122,118,78,99,100,103,110} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)())
+MhtZ_HRg.Size = UDim2.new(0.6, 150, 0, 25)
+-- This is part of obfuscated script
+MhtZ_HRg.Position = UDim2.new(0.2, -75, 0, 585)
+MhtZ_HRg.BackgroundTransparency = 1
+-- Protected by ScriptHub
+MhtZ_HRg.Text = (function() local QxEGKmNA=8 local mOrGwkgg={73,125,124,119,40,78,125,118,107,124,113,119,118} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)()
+MhtZ_HRg.TextColor3 = Color3.new(1,1,1)
+MhtZ_HRg.TextScaled = true
+MhtZ_HRg.Font = Enum.Font.GothamBold
+MhtZ_HRg.Parent = ESbWZdMl
+
+-- Encryption level: high
+local YXWAaZMu = {(function() local QxEGKmNA=3 local mOrGwkgg={83,114,118,108,119,108,114,113} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)(),(function() local QxEGKmNA=9 local mOrGwkgg={95,114,124,126,106,117} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)(),(function() local QxEGKmNA=3 local mOrGwkgg={86,104,119,119,108,113,106,118} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)()}
+local ZBQFTsUa = {}
+-- Protected by ScriptHub
+local defaultColor, activeColor = Color3.fromRGB(50,50,50), Color3.fromRGB(80,80,80)
+
+if nil ~= nil then fFNVGuf = true end
+-- Do not modify this code
+for i,disp in ipairs(YXWAaZMu) do
+    local GSeuGdEp = Instance.new((function() local QxEGKmNA=6 local mOrGwkgg={90,107,126,122,72,123,122,122,117,116} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)())
+    GSeuGdEp.Size = UDim2.new(0,120,0,30)
+    GSeuGdEp.Position = UDim2.new(0,10+(i-1)*130,0,5)
+-- This is part of obfuscated script
+    GSeuGdEp.BackgroundColor3 = defaultColor
+    GSeuGdEp.Text = disp
+    GSeuGdEp.TextColor3 = Color3.new(1,1,1)
+    GSeuGdEp.Font = Enum.Font.GothamBold
+    GSeuGdEp.TextSize = 16
+-- Deobfuscation is prohibited
+    GSeuGdEp.Parent = SGtepIRr
+
+    local vG_nYsrT = Instance.new((function() local QxEGKmNA=9 local mOrGwkgg={94,82,76,120,123,119,110,123} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)(),GSeuGdEp)
+    vG_nYsrT.CornerRadius = UDim.new(0,6)
+-- Encryption level: high
+
+    ZBQFTsUa[i] = GSeuGdEp
+    GSeuGdEp.MouseButton1Click:Connect(function()
+        for j,name in ipairs(pageNames) do
+-- Protected by ScriptHub
+            pages[name].Visible = (j==i)
+            ZBQFTsUa[j].BackgroundColor3 = (j==i) and activeColor or defaultColor
+        end
+-- Protected by ScriptHub
+    end)
+end
+ZBQFTsUa[1].BackgroundColor3 = activeColor
+-- Encryption level: high
+
+local pRByzgys = pages[(function() local QxEGKmNA=1 local mOrGwkgg={81,98,104,102,50} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)()]
+local wKhelsJO = Instance.new((function() local QxEGKmNA=5 local mOrGwkgg={89,106,125,121,71,122,121,121,116,115} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)())
+wKhelsJO.Size = UDim2.new(0.6, 150, 0, 40)
+wKhelsJO.Position = UDim2.new(0.2, -75, 0, 5)
+-- Deobfuscation is prohibited
+wKhelsJO.BackgroundColor3 = Color3.fromRGB(100, 100, 100)
+wKhelsJO.Text = (function() local QxEGKmNA=6 local mOrGwkgg={86,117,121,111,122,111,117,116,38,73,117,118,127} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)()
+wKhelsJO.TextColor3 = Color3.new(1, 1, 1)
+-- Protected by ScriptHub
+wKhelsJO.Font = Enum.Font.GothamBold
+wKhelsJO.TextSize = 18
+wKhelsJO.Parent = pRByzgys
+
+local ydOPYTzG = Instance.new((function() local QxEGKmNA=9 local mOrGwkgg={94,82,76,120,123,119,110,123} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)(), wKhelsJO)
+ydOPYTzG.CornerRadius = UDim.new(0, 8)
+-- Encryption level: high
+
+wKhelsJO.MouseButton1Click:Connect(function()
+    local IKjqwiVw = game.gkXsABhb.LocalPlayer
+local euztaIGn = IKjqwiVw.Character or IKjqwiVw.CharacterAdded:Wait()
+local KeLxFFrk = euztaIGn:WaitForChild((function() local QxEGKmNA=6 local mOrGwkgg={78,123,115,103,116,117,111,106,88,117,117,122,86,103,120,122} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)())
+local sIiAisZB = KeLxFFrk.Position
+-- Encryption level: high
+
+setclipboard(string.format((function() local QxEGKmNA=10 local mOrGwkgg={47,56,60,112,54,42,47,56,60,112,54,42,47,56,60,112} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)(), sIiAisZB.X, sIiAisZB.Y, sIiAisZB.Z))
+
+-- Protected by ScriptHub
+print(string.format((function() local QxEGKmNA=4 local mOrGwkgg={84,115,119,109,120,109,115,114,36,103,115,116,109,105,104,62,36,41,50,54,106,48,36,41,50,54,106,48,36,41,50,54,106} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)(), sIiAisZB.X, sIiAisZB.Y, sIiAisZB.Z))
+end)
+
+-- Do not modify this code
+local pRByzgys = pages[(function() local QxEGKmNA=2 local mOrGwkgg={82,99,105,103,51} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)()]
+local wKhelsJO = Instance.new((function() local QxEGKmNA=3 local mOrGwkgg={87,104,123,119,69,120,119,119,114,113} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)())
+wKhelsJO.Size = UDim2.new(0.6, 150, 0, 40)
+wKhelsJO.Position = UDim2.new(0.2, -75, 0, 50)
+wKhelsJO.BackgroundColor3 = Color3.fromRGB(100, 100, 100)
+-- Deobfuscation is prohibited
+wKhelsJO.Text = (function() local QxEGKmNA=3 local mOrGwkgg={70,73,117,100,112,104,35,70,114,115,124} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)()
+wKhelsJO.TextColor3 = Color3.new(1, 1, 1)
+wKhelsJO.Font = Enum.Font.GothamBold
+wKhelsJO.TextSize = 18
+wKhelsJO.Parent = pRByzgys
+-- Protected by ScriptHub
+
+local ydOPYTzG = Instance.new((function() local QxEGKmNA=1 local mOrGwkgg={86,74,68,112,115,111,102,115} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)(), wKhelsJO)
+ydOPYTzG.CornerRadius = UDim.new(0, 8)
+
+-- Deobfuscation is prohibited
+wKhelsJO.MouseButton1Click:Connect(function()
+    local IKjqwiVw = game.gkXsABhb.LocalPlayer
+-- Script generated at 2025-04-28T06:33:27.252Z
+local euztaIGn = IKjqwiVw.Character or IKjqwiVw.CharacterAdded:Wait()
+local KeLxFFrk = euztaIGn:WaitForChild((function() local QxEGKmNA=9 local mOrGwkgg={81,126,118,106,119,120,114,109,91,120,120,125,89,106,123,125} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)())
+-- Deobfuscation is prohibited
+local ZeqxVRaW = KeLxFFrk.CFrame
+
+setclipboard(string.format((function() local QxEGKmNA=6 local mOrGwkgg={43,52,56,108,50,38,43,52,56,108,50,38,43,52,56,108,50,38,43,52,56,108,50,38,43,52,56,108,50,38,43,52,56,108} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)(), 
+    ZeqxVRaW.X, ZeqxVRaW.Y, ZeqxVRaW.Z, 
+-- Encryption level: high
+    ZeqxVRaW:toEulerAnglesXYZ()
+))
+
+-- Deobfuscation is prohibited
+print(string.format((function() local QxEGKmNA=3 local mOrGwkgg={70,73,117,100,112,104,35,102,114,115,108,104,103,61,35,40,49,53,105,47,35,40,49,53,105,47,35,40,49,53,105,47,35,40,49,53,105,47,35,40,49,53,105,47,35,40,49,53,105} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)(), 
+    ZeqxVRaW.X, ZeqxVRaW.Y, ZeqxVRaW.Z, 
+    ZeqxVRaW:toEulerAnglesXYZ()
+-- Do not modify this code
+))
+end)
+
+local pRByzgys = pages[(function() local QxEGKmNA=2 local mOrGwkgg={82,99,105,103,51} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)()]
+local wKhelsJO = Instance.new((function() local QxEGKmNA=7 local mOrGwkgg={91,108,127,123,73,124,123,123,118,117} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)())
+-- Script generated at 2025-04-28T06:33:27.252Z
+wKhelsJO.Size = UDim2.new(0.6, 150, 0, 40)
+wKhelsJO.Position = UDim2.new(0.2, -75, 0, 95)
+-- Script generated at 2025-04-28T06:33:27.252Z
+wKhelsJO.BackgroundColor3 = Color3.fromRGB(100, 100, 100)
+wKhelsJO.Text = (function() local QxEGKmNA=9 local mOrGwkgg={76,79,123,106,118,110,55,119,110,128,49,76,79,50,41,76,120,121,130} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)()
+wKhelsJO.TextColor3 = Color3.new(1, 1, 1)
+wKhelsJO.Font = Enum.Font.GothamBold
+wKhelsJO.TextSize = 18
+-- This is part of obfuscated script
+wKhelsJO.Parent = pRByzgys
+
+-- Do not modify this code
+local ydOPYTzG = Instance.new((function() local QxEGKmNA=8 local mOrGwkgg={93,81,75,119,122,118,109,122} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)(), wKhelsJO)
+do local heap = "PiAPoORhJK" end
+ydOPYTzG.CornerRadius = UDim.new(0, 8)
+
+wKhelsJO.MouseButton1Click:Connect(function()
+-- Do not modify this code
+    local IKjqwiVw = game.gkXsABhb.LocalPlayer
+local euztaIGn = IKjqwiVw.Character or IKjqwiVw.CharacterAdded:Wait()
+local KeLxFFrk = euztaIGn:WaitForChild((function() local QxEGKmNA=1 local mOrGwkgg={73,118,110,98,111,112,106,101,83,112,112,117,81,98,115,117} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)())
+local ZeqxVRaW = KeLxFFrk.CFrame
+
+-- Script generated at 2025-04-28T06:33:27.252Z
+setclipboard(string.format((function() local QxEGKmNA=6 local mOrGwkgg={73,76,120,103,115,107,52,116,107,125,46,43,52,56,108,50,38,43,52,56,108,50,38,43,52,56,108,50,38,43,52,56,108,50,38,43,52,56,108,50,38,43,52,56,108,47} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)(), 
+    ZeqxVRaW.X, ZeqxVRaW.Y, ZeqxVRaW.Z, 
+    ZeqxVRaW:toEulerAnglesXYZ()
+))
+
+-- Deobfuscation is prohibited
+print(string.format((function() local QxEGKmNA=7 local mOrGwkgg={74,77,121,104,116,108,39,106,118,119,112,108,107,39,104,122,39,74,77,121,104,116,108,53,117,108,126,65,39,74,77,121,104,116,108,53,117,108,126,47,44,53,57,109,51,39,44,53,57,109,51,39,44,53,57,109,51,39,44,53,57,109,51,39,44,53,57,109,51,39,44,53,57,109,48} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)(), 
+    ZeqxVRaW.X, ZeqxVRaW.Y, ZeqxVRaW.Z, 
+    ZeqxVRaW:toEulerAnglesXYZ()
+))
+-- Encryption level: high
+end)
+
+-- Encryption level: high
+local pRByzgys = pages[(function() local QxEGKmNA=1 local mOrGwkgg={81,98,104,102,50} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)()]
+local wKhelsJO = Instance.new((function() local QxEGKmNA=9 local mOrGwkgg={93,110,129,125,75,126,125,125,120,119} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)())
+wKhelsJO.Size = UDim2.new(0.6, 150, 0, 40)
+-- Script generated at 2025-04-28T06:33:27.252Z
+wKhelsJO.Position = UDim2.new(0.2, -75, 0, 140)
+if false then print("xWVRjdwx") end
+wKhelsJO.BackgroundColor3 = Color3.fromRGB(100, 100, 100)
+wKhelsJO.Text = (function() local QxEGKmNA=10 local mOrGwkgg={77,80,124,107,119,111,56,120,111,129,50,90,121,125,51,42,77,121,122,131} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)()
+-- Deobfuscation is prohibited
+wKhelsJO.TextColor3 = Color3.new(1, 1, 1)
+wKhelsJO.Font = Enum.Font.GothamBold
+wKhelsJO.TextSize = 18
+wKhelsJO.Parent = pRByzgys
+
+local ydOPYTzG = Instance.new((function() local QxEGKmNA=4 local mOrGwkgg={89,77,71,115,118,114,105,118} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)(), wKhelsJO)
+-- This is part of obfuscated script
+ydOPYTzG.CornerRadius = UDim.new(0, 8)
+
+wKhelsJO.MouseButton1Click:Connect(function()
+    local IKjqwiVw = game.gkXsABhb.LocalPlayer
+-- Encryption level: high
+local euztaIGn = IKjqwiVw.Character or IKjqwiVw.CharacterAdded:Wait()
+local KeLxFFrk = euztaIGn:WaitForChild((function() local QxEGKmNA=9 local mOrGwkgg={81,126,118,106,119,120,114,109,91,120,120,125,89,106,123,125} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)())
+local sIiAisZB = KeLxFFrk.Position
+
+setclipboard(string.format((function() local QxEGKmNA=4 local mOrGwkgg={71,74,118,101,113,105,50,114,105,123,44,41,50,54,106,48,36,41,50,54,106,48,36,41,50,54,106,45} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)(), sIiAisZB.X, sIiAisZB.Y, sIiAisZB.Z))
+-- Protected by ScriptHub
+print(string.format((function() local QxEGKmNA=9 local mOrGwkgg={76,79,123,106,118,110,55,119,110,128,49,46,55,59,111,53,41,46,55,59,111,53,41,46,55,59,111,50} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)(), sIiAisZB.X, sIiAisZB.Y, sIiAisZB.Z))
+end)
+
+-- Script generated at 2025-04-28T06:33:27.252Z
+local pRByzgys = pages[(function() local QxEGKmNA=8 local mOrGwkgg={88,105,111,109,57} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)()]
+local wKhelsJO = Instance.new((function() local QxEGKmNA=5 local mOrGwkgg={89,106,125,121,71,122,121,121,116,115} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)())
+-- Protected by ScriptHub
+wKhelsJO.Size = UDim2.new(0.6, 150, 0, 40)
+wKhelsJO.Position = UDim2.new(0.2, -75, 0, 185)
+-- Script generated at 2025-04-28T06:33:27.252Z
+wKhelsJO.BackgroundColor3 = Color3.fromRGB(100, 100, 100)
+wKhelsJO.Text = (function() local QxEGKmNA=5 local mOrGwkgg={75,122,115,104,48,72,75,37,72,116,117,126} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)()
+wKhelsJO.TextColor3 = Color3.new(1, 1, 1)
+-- Protected by ScriptHub
+wKhelsJO.Font = Enum.Font.GothamBold
+wKhelsJO.TextSize = 18
+wKhelsJO.Parent = pRByzgys
+
+local ydOPYTzG = Instance.new((function() local QxEGKmNA=1 local mOrGwkgg={86,74,68,112,115,111,102,115} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)(), wKhelsJO)
+ydOPYTzG.CornerRadius = UDim.new(0, 8)
+-- Deobfuscation is prohibited
+
+wKhelsJO.MouseButton1Click:Connect(function()
+    local IKjqwiVw = game.gkXsABhb.LocalPlayer
+-- Protected by ScriptHub
+local euztaIGn = IKjqwiVw.Character or IKjqwiVw.CharacterAdded:Wait()
+local KeLxFFrk = euztaIGn:WaitForChild((function() local QxEGKmNA=5 local mOrGwkgg={77,122,114,102,115,116,110,105,87,116,116,121,85,102,119,121} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)())
+local ZeqxVRaW = KeLxFFrk.CFrame
+-- This is part of obfuscated script
+
+setclipboard(string.format((function() local QxEGKmNA=8 local mOrGwkgg={75,78,122,105,117,109,54,118,109,127,48,45,54,58,110,52,40,45,54,58,110,52,40,45,54,58,110,49,40,50,40,75,78,122,105,117,109,54,73,118,111,116,109,123,48,45,54,58,110,52,40,45,54,58,110,52,40,45,54,58,110,49} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)(), 
+-- Script generated at 2025-04-28T06:33:27.252Z
+    ZeqxVRaW.X, ZeqxVRaW.Y, ZeqxVRaW.Z, 
+    ZeqxVRaW:toEulerAnglesXYZ()
+))
+
+print(string.format((function() local QxEGKmNA=9 local mOrGwkgg={76,79,123,106,118,110,55,119,110,128,49,46,55,59,111,53,41,46,55,59,111,53,41,46,55,59,111,50,41,51,41,76,79,123,106,118,110,55,74,119,112,117,110,124,49,46,55,59,111,53,41,46,55,59,111,53,41,46,55,59,111,50} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)(), 
+-- Protected by ScriptHub
+    ZeqxVRaW.X, ZeqxVRaW.Y, ZeqxVRaW.Z, 
+    ZeqxVRaW:toEulerAnglesXYZ()
+))
+end)
+-- This is part of obfuscated script
+
+local pRByzgys = pages[(function() local QxEGKmNA=4 local mOrGwkgg={84,101,107,105,53} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)()]
+local wKhelsJO = Instance.new((function() local QxEGKmNA=3 local mOrGwkgg={87,104,123,119,69,120,119,119,114,113} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)())
+wKhelsJO.Size = UDim2.new(0.6, 150, 0, 40)
+wKhelsJO.Position = UDim2.new(0.2, -75, 0, 230)
+wKhelsJO.BackgroundColor3 = Color3.fromRGB(100, 100, 100)
+-- This is part of obfuscated script
+wKhelsJO.Text = (function() local QxEGKmNA=5 local mOrGwkgg={75,122,115,104,48,85,116,120,37,72,116,117,126} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)()
+wKhelsJO.TextColor3 = Color3.new(1, 1, 1)
+-- Protected by ScriptHub
+wKhelsJO.Font = Enum.Font.GothamBold
+wKhelsJO.TextSize = 18
+wKhelsJO.Parent = pRByzgys
+
+-- Deobfuscation is prohibited
+local ydOPYTzG = Instance.new((function() local QxEGKmNA=7 local mOrGwkgg={92,80,74,118,121,117,108,121} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)(), wKhelsJO)
+ydOPYTzG.CornerRadius = UDim.new(0, 8)
+
+wKhelsJO.MouseButton1Click:Connect(function()
+    local IKjqwiVw = game.gkXsABhb.LocalPlayer
+local euztaIGn = IKjqwiVw.Character or IKjqwiVw.CharacterAdded:Wait()
+-- Protected by ScriptHub
+local KeLxFFrk = euztaIGn:WaitForChild((function() local QxEGKmNA=5 local mOrGwkgg={77,122,114,102,115,116,110,105,87,116,116,121,85,102,119,121} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)())
+local sIiAisZB = KeLxFFrk.Position
+
+setclipboard(string.format((function() local QxEGKmNA=6 local mOrGwkgg={73,76,120,103,115,107,52,116,107,125,46,43,52,56,108,50,38,43,52,56,108,50,38,43,52,56,108,47} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)(), sIiAisZB.X, sIiAisZB.Y, sIiAisZB.Z))
+
+print(string.format((function() local QxEGKmNA=7 local mOrGwkgg={74,77,121,104,116,108,53,117,108,126,47,44,53,57,109,51,39,44,53,57,109,51,39,44,53,57,109,48} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)(), sIiAisZB.X, sIiAisZB.Y, sIiAisZB.Z))
+-- Encryption level: high
+end)
+
+local pRByzgys = pages[(function() local QxEGKmNA=6 local mOrGwkgg={86,103,109,107,55} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)()]
+-- Script generated at 2025-04-28T06:33:27.252Z
+local wKhelsJO = Instance.new((function() local QxEGKmNA=7 local mOrGwkgg={91,108,127,123,73,124,123,123,118,117} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)())
+wKhelsJO.Size = UDim2.new(0.6, 150, 0, 40)
+wKhelsJO.Position = UDim2.new(0.2, -75, 0, 275)
+wKhelsJO.BackgroundColor3 = Color3.fromRGB(100, 100, 100)
+-- Script generated at 2025-04-28T06:33:27.252Z
+wKhelsJO.Text = (function() local QxEGKmNA=5 local mOrGwkgg={77,122,114,102,115,116,110,105,37,72,116,117,126} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)()
+wKhelsJO.TextColor3 = Color3.new(1, 1, 1)
+wKhelsJO.Font = Enum.Font.GothamBold
+wKhelsJO.TextSize = 18
+-- Protected by ScriptHub
+wKhelsJO.Parent = pRByzgys
+
+local ydOPYTzG = Instance.new((function() local QxEGKmNA=8 local mOrGwkgg={93,81,75,119,122,118,109,122} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)(), wKhelsJO)
+ydOPYTzG.CornerRadius = UDim.new(0, 8)
+-- This is part of obfuscated script
+
+wKhelsJO.MouseButton1Click:Connect(function()
+    local IKjqwiVw = game.gkXsABhb.LocalPlayer
+local euztaIGn = IKjqwiVw.Character or IKjqwiVw.CharacterAdded:Wait()
+local veKQCUTN = euztaIGn:WaitForChild((function() local QxEGKmNA=2 local mOrGwkgg={74,119,111,99,112,113,107,102} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)())
+
+-- Protected by ScriptHub
+local jbfrXTrg       = veKQCUTN.Health
+local blrwcBBD    = veKQCUTN.MaxHealth
+local xTrYlQPy    = veKQCUTN.WalkSpeed
+local VDINyJIG    = veKQCUTN.JumpPower
+
+local waZtumjC = string.format(
+-- Deobfuscation is prohibited
+    (function() local QxEGKmNA=9 local mOrGwkgg={81,110,106,117,125,113,67,41,46,55,58,111,56,46,55,58,111,53,41,96,106,117,116,92,121,110,110,109,67,41,46,55,58,111,53,41,83,126,118,121,89,120,128,110,123,67,41,46,55,58,111} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)(),
+    jbfrXTrg, blrwcBBD, xTrYlQPy, VDINyJIG
+)
+
+setclipboard(waZtumjC)
+print(waZtumjC)
+-- Do not modify this code
+end)
+
+-- Script generated at 2025-04-28T06:33:27.252Z
+local pRByzgys = pages[(function() local QxEGKmNA=5 local mOrGwkgg={85,102,108,106,54} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)()]
+local wKhelsJO = Instance.new((function() local QxEGKmNA=9 local mOrGwkgg={93,110,129,125,75,126,125,125,120,119} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)())
+wKhelsJO.Size = UDim2.new(0.6, 150, 0, 40)
+wKhelsJO.Position = UDim2.new(0.2, -75, 0, 320)
+wKhelsJO.BackgroundColor3 = Color3.fromRGB(100, 100, 100)
+-- Protected by ScriptHub
+wKhelsJO.Text = (function() local QxEGKmNA=10 local mOrGwkgg={82,127,119,107,120,121,115,110,92,121,121,126,90,107,124,126,42,77,121,122,131} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)()
+wKhelsJO.TextColor3 = Color3.new(1, 1, 1)
+wKhelsJO.Font = Enum.Font.GothamBold
+-- Deobfuscation is prohibited
+wKhelsJO.TextSize = 18
+wKhelsJO.Parent = pRByzgys
+-- Deobfuscation is prohibited
+
+local ydOPYTzG = Instance.new((function() local QxEGKmNA=2 local mOrGwkgg={87,75,69,113,116,112,103,116} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)(), wKhelsJO)
+ydOPYTzG.CornerRadius = UDim.new(0, 8)
+
+wKhelsJO.MouseButton1Click:Connect(function()
+-- This is part of obfuscated script
+    local IKjqwiVw = game.gkXsABhb.LocalPlayer
+local euztaIGn = IKjqwiVw.Character or IKjqwiVw.CharacterAdded:Wait()
+-- Deobfuscation is prohibited
+local KeLxFFrk = euztaIGn:WaitForChild((function() local QxEGKmNA=5 local mOrGwkgg={77,122,114,102,115,116,110,105,87,116,116,121,85,102,119,121} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)())
+
+local sIiAisZB = KeLxFFrk.Position
+-- Encryption level: high
+local ScCzsfKg = {KeLxFFrk.CFrame:toEulerAnglesXYZ()}
+
+if nil ~= nil then fFNVGuf = true end
+local waZtumjC = string.format(
+    (function() local QxEGKmNA=6 local mOrGwkgg={86,117,121,111,122,111,117,116,64,38,43,52,56,108,50,38,43,52,56,108,50,38,43,52,56,108,38,130,38,88,117,122,103,122,111,117,116,64,38,43,52,56,108,50,38,43,52,56,108,50,38,43,52,56,108} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)(),
+    sIiAisZB.X, sIiAisZB.Y, sIiAisZB.Z, ScCzsfKg[1], ScCzsfKg[2], ScCzsfKg[3]
+-- This is part of obfuscated script
+)
+
+setclipboard(waZtumjC)
+-- Deobfuscation is prohibited
+print(waZtumjC)
+end)
+
+local pRByzgys = pages[(function() local QxEGKmNA=7 local mOrGwkgg={87,104,110,108,56} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)()]
+local wKhelsJO = Instance.new((function() local QxEGKmNA=9 local mOrGwkgg={93,110,129,125,75,126,125,125,120,119} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)())
+wKhelsJO.Size = UDim2.new(0.6, 150, 0, 40)
+-- Encryption level: high
+wKhelsJO.Position = UDim2.new(0.2, -75, 0, 365)
+wKhelsJO.BackgroundColor3 = Color3.fromRGB(100, 100, 100)
+-- Script generated at 2025-04-28T06:33:27.252Z
+wKhelsJO.Text = (function() local QxEGKmNA=1 local mOrGwkgg={73,118,110,98,111,112,106,101,83,112,112,117,81,98,115,117,47,68,71,115,98,110,102,33,68,112,113,122} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)()
+wKhelsJO.TextColor3 = Color3.new(1, 1, 1)
+wKhelsJO.Font = Enum.Font.GothamBold
+wKhelsJO.TextSize = 18
+wKhelsJO.Parent = pRByzgys
+-- Do not modify this code
+
+local ydOPYTzG = Instance.new((function() local QxEGKmNA=4 local mOrGwkgg={89,77,71,115,118,114,105,118} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)(), wKhelsJO)
+ydOPYTzG.CornerRadius = UDim.new(0, 8)
+
+wKhelsJO.MouseButton1Click:Connect(function()
+    local IKjqwiVw = game.gkXsABhb.LocalPlayer
+-- Encryption level: high
+local euztaIGn = IKjqwiVw.Character or IKjqwiVw.CharacterAdded:Wait()
+local KeLxFFrk = euztaIGn:WaitForChild((function() local QxEGKmNA=10 local mOrGwkgg={82,127,119,107,120,121,115,110,92,121,121,126,90,107,124,126} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)())
+-- Encryption level: high
+local xIZGuqxE = KeLxFFrk.CFrame
+if nil ~= nil then fFNVGuf = true end
+
+setclipboard(string.format(
+    (function() local QxEGKmNA=2 local mOrGwkgg={69,72,116,99,111,103,48,112,103,121,42,39,48,52,104,46,34,39,48,52,104,46,34,39,48,52,104,43,34,44,34,69,72,116,99,111,103,48,67,112,105,110,103,117,42,39,48,52,104,46,34,39,48,52,104,46,34,39,48,52,104,43} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)(),
+    xIZGuqxE.X, xIZGuqxE.Y, xIZGuqxE.Z,
+-- Do not modify this code
+    xIZGuqxE:ToOrientation()
+))
+-- Encryption level: high
+
+print(string.format(
+-- Do not modify this code
+    (function() local QxEGKmNA=9 local mOrGwkgg={76,79,123,106,118,110,55,119,110,128,49,46,55,59,111,53,41,46,55,59,111,53,41,46,55,59,111,50,41,51,41,76,79,123,106,118,110,55,74,119,112,117,110,124,49,46,55,59,111,53,41,46,55,59,111,53,41,46,55,59,111,50} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)(),
+    xIZGuqxE.X, xIZGuqxE.Y, xIZGuqxE.Z,
+    xIZGuqxE:ToOrientation()
+))
+-- Deobfuscation is prohibited
+end)
+
+local ESbWZdMl = pages[(function() local QxEGKmNA=7 local mOrGwkgg={87,104,110,108,57} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)()]
+-- Protected by ScriptHub
+local wKhelsJO = Instance.new((function() local QxEGKmNA=4 local mOrGwkgg={88,105,124,120,70,121,120,120,115,114} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)())
+wKhelsJO.Size = UDim2.new(0.6, 150, 0, 40)
+wKhelsJO.Position = UDim2.new(0.2, -75, 0, 5)
+wKhelsJO.BackgroundColor3 = Color3.fromRGB(100, 100, 100)
+wKhelsJO.Text = (function() local QxEGKmNA=8 local mOrGwkgg={76,105,122,115,40,76,109,128,40,126,59} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)()
+-- Protected by ScriptHub
+wKhelsJO.TextColor3 = Color3.new(1, 1, 1)
+wKhelsJO.Font = Enum.Font.GothamBold
+-- Do not modify this code
+wKhelsJO.TextSize = 18
+wKhelsJO.Parent = ESbWZdMl
+
+-- Encryption level: high
+local ydOPYTzG = Instance.new((function() local QxEGKmNA=2 local mOrGwkgg={87,75,69,113,116,112,103,116} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)(), wKhelsJO)
+ydOPYTzG.CornerRadius = UDim.new(0, 8)
+
+wKhelsJO.MouseButton1Click:Connect(function()
+    loadstring(game:HttpGet((function() local QxEGKmNA=4 local mOrGwkgg={108,120,120,116,119,62,51,51,118,101,123,50,107,109,120,108,121,102,121,119,105,118,103,115,114,120,105,114,120,50,103,115,113,51,70,101,102,125,108,101,113,119,120,101,51,86,70,80,92,99,87,103,118,109,116,120,119,51,113,101,109,114,51,89,114,109,122,105,118,119,101,112,51,70,125,116,101,119,119,105,104,72,101,118,111,72,105,124,90,55,50,112,121,101} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)(), true))()
+end)
+-- Deobfuscation is prohibited
+
+local ESbWZdMl = pages[(function() local QxEGKmNA=5 local mOrGwkgg={85,102,108,106,55} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)()]
+local wKhelsJO = Instance.new((function() local QxEGKmNA=2 local mOrGwkgg={86,103,122,118,68,119,118,118,113,112} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)())
+wKhelsJO.Size = UDim2.new(0.6, 150, 0, 40)
+wKhelsJO.Position = UDim2.new(0.2, -75, 0, 50)
+wKhelsJO.BackgroundColor3 = Color3.fromRGB(100, 100, 100)
+-- Encryption level: high
+wKhelsJO.Text = (function() local QxEGKmNA=10 local mOrGwkgg={78,107,124,117,42,78,111,130,42,87,121,108,115,118,111} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)()
+wKhelsJO.TextColor3 = Color3.new(1, 1, 1)
+wKhelsJO.Font = Enum.Font.GothamBold
+wKhelsJO.TextSize = 18
+wKhelsJO.Parent = ESbWZdMl
+
+-- Encryption level: high
+local ydOPYTzG = Instance.new((function() local QxEGKmNA=7 local mOrGwkgg={92,80,74,118,121,117,108,121} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)(), wKhelsJO)
+ydOPYTzG.CornerRadius = UDim.new(0, 8)
+
+-- This is part of obfuscated script
+wKhelsJO.MouseButton1Click:Connect(function()
+    loadstring(game:HttpGet((function() local QxEGKmNA=1 local mOrGwkgg={105,117,117,113,116,59,48,48,115,98,120,116,100,115,106,113,117,116,47,111,102,117,48,115,98,120,48,86,111,106,119,102,115,116,98,109,46,84,100,115,106,113,117,46,76,102,122,109,102,116,116,46,110,112,99,106,109,102,46,101,102,121,46,50,56,57,57,57} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)()))()
+end)
+
+local ESbWZdMl = pages[(function() local QxEGKmNA=1 local mOrGwkgg={81,98,104,102,51} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)()]
+-- Deobfuscation is prohibited
+local wKhelsJO = Instance.new((function() local QxEGKmNA=10 local mOrGwkgg={94,111,130,126,76,127,126,126,121,120} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)())
+wKhelsJO.Size = UDim2.new(0.6, 150, 0, 40)
+wKhelsJO.Position = UDim2.new(0.2, -75, 0, 95)
+wKhelsJO.BackgroundColor3 = Color3.fromRGB(100, 100, 100)
+-- This is part of obfuscated script
+wKhelsJO.Text = (function() local QxEGKmNA=8 local mOrGwkgg={90,109,117,119,124,109,40,91,120,129} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)()
+wKhelsJO.TextColor3 = Color3.new(1, 1, 1)
+wKhelsJO.Font = Enum.Font.GothamBold
+wKhelsJO.TextSize = 18
+wKhelsJO.Parent = ESbWZdMl
+
+-- Script generated at 2025-04-28T06:33:27.252Z
+local ydOPYTzG = Instance.new((function() local QxEGKmNA=10 local mOrGwkgg={95,83,77,121,124,120,111,124} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)(), wKhelsJO)
+ydOPYTzG.CornerRadius = UDim.new(0, 8)
+
+wKhelsJO.MouseButton1Click:Connect(function()
+-- Protected by ScriptHub
+    loadstring(game:HttpGet((function() local QxEGKmNA=9 local mOrGwkgg={113,125,125,121,124,67,56,56,123,106,128,124,108,123,114,121,125,124,55,119,110,125,56,123,106,128,56,94,119,114,127,110,123,124,106,117,54,92,108,123,114,121,125,54,92,114,118,121,117,110,54,92,121,130,54,86,120,107,114,117,110,54,92,108,123,114,121,125,54,91,110,124,125,120,123,110,109,54,59,59,64,60,59} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)()))()
+end)
+-- Encryption level: high
+
+local ESbWZdMl = pages[(function() local QxEGKmNA=5 local mOrGwkgg={85,102,108,106,55} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)()]
+-- Encryption level: high
+local wKhelsJO = Instance.new((function() local QxEGKmNA=9 local mOrGwkgg={93,110,129,125,75,126,125,125,120,119} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)())
+wKhelsJO.Size = UDim2.new(0.6, 150, 0, 40)
+wKhelsJO.Position = UDim2.new(0.2, -75, 0, 140)
+wKhelsJO.BackgroundColor3 = Color3.fromRGB(100, 100, 100)
+wKhelsJO.Text = (function() local QxEGKmNA=2 local mOrGwkgg={81,101,118,113,128,85,114,123} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)()
+wKhelsJO.TextColor3 = Color3.new(1, 1, 1)
+-- Protected by ScriptHub
+wKhelsJO.Font = Enum.Font.GothamBold
+wKhelsJO.TextSize = 18
+wKhelsJO.Parent = ESbWZdMl
+
+-- Script generated at 2025-04-28T06:33:27.252Z
+local ydOPYTzG = Instance.new((function() local QxEGKmNA=1 local mOrGwkgg={86,74,68,112,115,111,102,115} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)(), wKhelsJO)
+ydOPYTzG.CornerRadius = UDim.new(0, 8)
+
+-- Do not modify this code
+wKhelsJO.MouseButton1Click:Connect(function()
+    loadstring(game:HttpGet((function() local QxEGKmNA=7 local mOrGwkgg={111,123,123,119,122,65,54,54,121,104,126,53,110,112,123,111,124,105,124,122,108,121,106,118,117,123,108,117,123,53,106,118,116,54,80,117,109,108,121,117,124,122,90,106,121,112,119,123,122,54,86,106,123,118,52,90,119,128,54,121,108,109,122,54,111,108,104,107,122,54,116,104,112,117,54,84,104,112,117,53,115,124,104} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)(), true))()
+end)
+
+local ESbWZdMl = pages[(function() local QxEGKmNA=3 local mOrGwkgg={83,100,106,104,53} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)()]
+local wKhelsJO = Instance.new((function() local QxEGKmNA=10 local mOrGwkgg={94,111,130,126,76,127,126,126,121,120} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)())
+-- Protected by ScriptHub
+wKhelsJO.Size = UDim2.new(0.6, 150, 0, 40)
+wKhelsJO.Position = UDim2.new(0.2, -75, 0, 185)
+wKhelsJO.BackgroundColor3 = Color3.fromRGB(100, 100, 100)
+wKhelsJO.Text = (function() local QxEGKmNA=4 local mOrGwkgg={71,115,114,119,115,112,105} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)()
+wKhelsJO.TextColor3 = Color3.new(1, 1, 1)
+-- Deobfuscation is prohibited
+wKhelsJO.Font = Enum.Font.GothamBold
+wKhelsJO.TextSize = 18
+wKhelsJO.Parent = ESbWZdMl
+-- Protected by ScriptHub
+
+local ydOPYTzG = Instance.new((function() local QxEGKmNA=5 local mOrGwkgg={90,78,72,116,119,115,106,119} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)(), wKhelsJO)
+-- Deobfuscation is prohibited
+ydOPYTzG.CornerRadius = UDim.new(0, 8)
+
+wKhelsJO.MouseButton1Click:Connect(function()
+    loadstring(game:HttpGet((function() local QxEGKmNA=3 local mOrGwkgg={107,119,119,115,118,61,50,50,115,100,118,119,104,101,108,113,49,102,114,112,50,117,100,122,50,80,55,93,123,51,125,125,109} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)()))()
+end)
+
+-- Script generated at 2025-04-28T06:33:27.252Z
+local ESbWZdMl = pages[(function() local QxEGKmNA=4 local mOrGwkgg={84,101,107,105,54} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)()]
+local wKhelsJO = Instance.new((function() local QxEGKmNA=8 local mOrGwkgg={92,109,128,124,74,125,124,124,119,118} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)())
+wKhelsJO.Size = UDim2.new(0.6, 150, 0, 40)
+wKhelsJO.Position = UDim2.new(0.2, -75, 0, 230)
+wKhelsJO.BackgroundColor3 = Color3.fromRGB(100, 100, 100)
+wKhelsJO.Text = (function() local QxEGKmNA=7 local mOrGwkgg={80,117,109,112,117,112,123,108,39,96,112,108,115,107} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)()
+-- This is part of obfuscated script
+wKhelsJO.TextColor3 = Color3.new(1, 1, 1)
+wKhelsJO.Font = Enum.Font.GothamBold
+wKhelsJO.TextSize = 18
+-- This is part of obfuscated script
+wKhelsJO.Parent = ESbWZdMl
+
+-- Script generated at 2025-04-28T06:33:27.252Z
+local ydOPYTzG = Instance.new((function() local QxEGKmNA=2 local mOrGwkgg={87,75,69,113,116,112,103,116} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)(), wKhelsJO)
+ydOPYTzG.CornerRadius = UDim.new(0, 8)
+-- Deobfuscation is prohibited
+
+wKhelsJO.MouseButton1Click:Connect(function()
+    loadstring(game:HttpGet((function() local QxEGKmNA=6 local mOrGwkgg={110,122,122,118,121,64,53,53,120,103,125,52,109,111,122,110,123,104,123,121,107,120,105,117,116,122,107,116,122,52,105,117,115,53,75,106,109,107,79,95,53,111,116,108,111,116,111,122,107,127,111,107,114,106,53,115,103,121,122,107,120,53,121,117,123,120,105,107} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)()))()
+end)
+
+local ESbWZdMl = pages[(function() local QxEGKmNA=8 local mOrGwkgg={88,105,111,109,58} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)()]
+-- Protected by ScriptHub
+local wKhelsJO = Instance.new((function() local QxEGKmNA=8 local mOrGwkgg={92,109,128,124,74,125,124,124,119,118} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)())
+wKhelsJO.Size = UDim2.new(0.6, 150, 0, 40)
+wKhelsJO.Position = UDim2.new(0.2, -75, 0, 275)
+wKhelsJO.BackgroundColor3 = Color3.fromRGB(100, 100, 100)
+wKhelsJO.Text = (function() local QxEGKmNA=10 local mOrGwkgg={93,119,121,121,126,114,42,80,118,131,42,93,109,124,115,122,126} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)()
+wKhelsJO.TextColor3 = Color3.new(1, 1, 1)
+-- This is part of obfuscated script
+wKhelsJO.Font = Enum.Font.GothamBold
+wKhelsJO.TextSize = 18
+-- Deobfuscation is prohibited
+wKhelsJO.Parent = ESbWZdMl
+
+local ydOPYTzG = Instance.new((function() local QxEGKmNA=8 local mOrGwkgg={93,81,75,119,122,118,109,122} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)(), wKhelsJO)
+-- This is part of obfuscated script
+ydOPYTzG.CornerRadius = UDim.new(0, 8)
+
+wKhelsJO.MouseButton1Click:Connect(function()
+-- Encryption level: high
+    loadstring(game:HttpGet((function() local QxEGKmNA=5 local mOrGwkgg={109,121,121,117,120,63,52,52,117,102,120,121,106,103,110,115,51,104,116,114,52,119,102,124,52,93,85,82,61,124,89,71,80} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)()))()
+end)
+
+local ESbWZdMl = pages[(function() local QxEGKmNA=1 local mOrGwkgg={81,98,104,102,51} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)()]
+local wKhelsJO = Instance.new((function() local QxEGKmNA=5 local mOrGwkgg={89,106,125,121,71,122,121,121,116,115} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)())
+-- Protected by ScriptHub
+wKhelsJO.Size = UDim2.new(0.6, -125, 0, 40)
+wKhelsJO.Position = UDim2.new(0.2, 200, 0, 360)
+wKhelsJO.BackgroundColor3 = Color3.fromRGB(100, 100, 100)
+wKhelsJO.Text = (function() local QxEGKmNA=10 local mOrGwkgg={77,121,122,131} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)()
+-- Script generated at 2025-04-28T06:33:27.252Z
+wKhelsJO.TextColor3 = Color3.new(1, 1, 1)
+wKhelsJO.Font = Enum.Font.GothamBold
+wKhelsJO.TextSize = 18
+wKhelsJO.Parent = ESbWZdMl
+
+local ydOPYTzG = Instance.new((function() local QxEGKmNA=10 local mOrGwkgg={95,83,77,121,124,120,111,124} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)(), wKhelsJO)
+-- This is part of obfuscated script
+ydOPYTzG.CornerRadius = UDim.new(0, 8)
+
+-- Protected by ScriptHub
+wKhelsJO.MouseButton1Click:Connect(function()
+    local IKjqwiVw = game.gkXsABhb.LocalPlayer
+local mAlKlzjy = game:GetService((function() local QxEGKmNA=8 local mOrGwkgg={85,105,122,115,109,124,120,116,105,107,109,91,109,122,126,113,107,109} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)())
+
+local waZtumjC = mAlKlzjy:GetProductInfo(game.PlaceId)
+local LhjaZH_u = waZtumjC.Name
+-- Do not modify this code
+
+setclipboard(LhjaZH_u)
+print(LhjaZH_u)
+end)
+-- This is part of obfuscated script
+
+local ESbWZdMl = pages[(function() local QxEGKmNA=5 local mOrGwkgg={85,102,108,106,55} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)()]
+local eAlHiCEx = Instance.new((function() local QxEGKmNA=5 local mOrGwkgg={75,119,102,114,106} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)())
+eAlHiCEx.Size = UDim2.new(0.6, 35, 0, 40)
+-- Do not modify this code
+eAlHiCEx.Position = UDim2.new(0.2, -75, 0, 360)
+eAlHiCEx.BackgroundColor3 = Color3.fromRGB(100, 100, 100)
+eAlHiCEx.Parent = ESbWZdMl
+
+local ydOPYTzG = Instance.new((function() local QxEGKmNA=3 local mOrGwkgg={88,76,70,114,117,113,104,117} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)(), eAlHiCEx)
+-- Do not modify this code
+ydOPYTzG.CornerRadius = UDim.new(0, 8)
+
+local IKjqwiVw      = game.gkXsABhb.LocalPlayer
+local mAlKlzjy = game:GetService((function() local QxEGKmNA=2 local mOrGwkgg={79,99,116,109,103,118,114,110,99,101,103,85,103,116,120,107,101,103} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)())
+
+-- Deobfuscation is prohibited
+local ESbWZdMl = pages[(function() local QxEGKmNA=10 local mOrGwkgg={90,107,113,111,60} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)()]
+local gFrgsnQt = Instance.new((function() local QxEGKmNA=8 local mOrGwkgg={92,109,128,124,84,105,106,109,116} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)())
+-- Protected by ScriptHub
+gFrgsnQt.Size                   = UDim2.new(0.6, 35, 0, 40)
+gFrgsnQt.Position               = UDim2.new(0.2, -75, 0, 360)
+gFrgsnQt.BackgroundColor3       = Color3.fromRGB(100, 100, 100)
+gFrgsnQt.BackgroundTransparency = 0.7
+gFrgsnQt.TextColor3             = Color3.new(1, 1, 1)
+-- Script generated at 2025-04-28T06:33:27.252Z
+gFrgsnQt.Font                   = Enum.Font.GothamBold
+gFrgsnQt.TextSize               = 12
+gFrgsnQt.Text                   = (function() local QxEGKmNA=7 local mOrGwkgg={87,115,104,106,108,80,107,65,39,3592,3642,3628,3640,3598,3657,3634,3628,3611,53,53,53} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)()  
+-- Do not modify this code
+gFrgsnQt.Parent                 = ESbWZdMl
+
+local vG_nYsrT = Instance.new((function() local QxEGKmNA=2 local mOrGwkgg={87,75,69,113,116,112,103,116} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)(), gFrgsnQt)
+vG_nYsrT.CornerRadius = UDim.new(0, 8)
+
+local function fetchPlaceId()
+-- Do not modify this code
+    return tostring(game.PlaceId)
+end
+
+-- Script generated at 2025-04-28T06:33:27.252Z
+local qYKMdfGm = fetchPlaceId()
+gFrgsnQt.Text = (function() local QxEGKmNA=7 local mOrGwkgg={87,115,104,106,108,80,107,65,39} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)() .. qYKMdfGm
+-- Encryption level: high
+
+local ESbWZdMl = pages[(function() local QxEGKmNA=9 local mOrGwkgg={89,106,112,110,59} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)()]
+-- Deobfuscation is prohibited
+local wKhelsJO = Instance.new((function() local QxEGKmNA=1 local mOrGwkgg={85,102,121,117,67,118,117,117,112,111} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)())
+wKhelsJO.Size = UDim2.new(0.6, -125, 0, 40)
+wKhelsJO.Position = UDim2.new(0.2, 200, 0, 450)
+wKhelsJO.BackgroundColor3 = Color3.fromRGB(100, 100, 100)
+wKhelsJO.Text = (function() local QxEGKmNA=5 local mOrGwkgg={72,116,117,126} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)()
+-- Script generated at 2025-04-28T06:33:27.252Z
+wKhelsJO.TextColor3 = Color3.new(1, 1, 1)
+wKhelsJO.Font = Enum.Font.GothamBold
+wKhelsJO.TextSize = 18
+wKhelsJO.Parent = ESbWZdMl
+-- Deobfuscation is prohibited
+
+local ydOPYTzG = Instance.new((function() local QxEGKmNA=3 local mOrGwkgg={88,76,70,114,117,113,104,117} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)(), wKhelsJO)
+ydOPYTzG.CornerRadius = UDim.new(0, 8)
+
+wKhelsJO.MouseButton1Click:Connect(function()
+-- Script generated at 2025-04-28T06:33:27.252Z
+    local ESdkPpUu = game.JobId
+setclipboard(tostring(ESdkPpUu))
+print(ESdkPpUu)
+end)
+-- Script generated at 2025-04-28T06:33:27.252Z
+
+local ESbWZdMl = pages[(function() local QxEGKmNA=4 local mOrGwkgg={84,101,107,105,54} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)()]
+local eAlHiCEx = Instance.new((function() local QxEGKmNA=6 local mOrGwkgg={76,120,103,115,107} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)())
+eAlHiCEx.Size = UDim2.new(0.6, 35, 0, 40)
+-- Script generated at 2025-04-28T06:33:27.252Z
+eAlHiCEx.Position = UDim2.new(0.2, -75, 0, 450)
+eAlHiCEx.BackgroundColor3 = Color3.fromRGB(100, 100, 100)
+eAlHiCEx.Parent = ESbWZdMl
+
+local ydOPYTzG = Instance.new((function() local QxEGKmNA=5 local mOrGwkgg={90,78,72,116,119,115,106,119} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)(), eAlHiCEx)
+-- Protected by ScriptHub
+ydOPYTzG.CornerRadius = UDim.new(0, 8)
+
+local IKjqwiVw = game.gkXsABhb.LocalPlayer
+
+local ESbWZdMl = pages[(function() local QxEGKmNA=1 local mOrGwkgg={81,98,104,102,51} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)()]
+-- Deobfuscation is prohibited
+local SfWEArnj = Instance.new((function() local QxEGKmNA=3 local mOrGwkgg={87,104,123,119,79,100,101,104,111} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)())
+SfWEArnj.Size                   = UDim2.new(0.6, 35, 0, 40)
+SfWEArnj.Position               = UDim2.new(0.2, -75, 0, 450)
+-- Deobfuscation is prohibited
+SfWEArnj.BackgroundColor3       = Color3.fromRGB(100, 100, 100)
+SfWEArnj.BackgroundTransparency = 1
+SfWEArnj.TextColor3             = Color3.new(1, 1, 1)
+SfWEArnj.Font                   = Enum.Font.GothamBold
+-- Deobfuscation is prohibited
+SfWEArnj.TextSize               = 10
+SfWEArnj.Text                   = (function() local QxEGKmNA=4 local mOrGwkgg={78,115,102,77,104,62,36,3589,3639,3625,3637,3595,3654,3631,3625,3608,50,50,50} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)()
+SfWEArnj.Parent                 = ESbWZdMl
+
+-- Encryption level: high
+local vG_nYsrT = Instance.new((function() local QxEGKmNA=1 local mOrGwkgg={86,74,68,112,115,111,102,115} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)(), SfWEArnj)
+vG_nYsrT.CornerRadius = UDim.new(0, 8)
+
+local ESdkPpUu = game.JobId or (function() local QxEGKmNA=1 local mOrGwkgg={3653,3618,3657,3615,3611,33,75,112,99,74,101} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)()
+-- Deobfuscation is prohibited
+
+SfWEArnj.Text = (function() local QxEGKmNA=6 local mOrGwkgg={80,117,104,79,106,64,38} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)() .. tostring(ESdkPpUu)
+
+local ESbWZdMl = pages[(function() local QxEGKmNA=4 local mOrGwkgg={84,101,107,105,54} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)()]
+local wKhelsJO = Instance.new((function() local QxEGKmNA=7 local mOrGwkgg={91,108,127,123,73,124,123,123,118,117} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)())
+wKhelsJO.Size = UDim2.new(0.6, 150, 0, 40)
+-- Encryption level: high
+wKhelsJO.Position = UDim2.new(0.2, -75, 0, 495)
+wKhelsJO.BackgroundColor3 = Color3.fromRGB(100, 100, 100)
+wKhelsJO.Text = (function() local QxEGKmNA=4 local mOrGwkgg={86,105,110,115,109,114,36,87,105,118,122,105,118} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)()
+wKhelsJO.TextColor3 = Color3.new(1, 1, 1)
+-- Protected by ScriptHub
+wKhelsJO.Font = Enum.Font.GothamBold
+wKhelsJO.TextSize = 18
+wKhelsJO.Parent = ESbWZdMl
+
+-- Script generated at 2025-04-28T06:33:27.252Z
+local ydOPYTzG = Instance.new((function() local QxEGKmNA=1 local mOrGwkgg={86,74,68,112,115,111,102,115} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)(), wKhelsJO)
+ydOPYTzG.CornerRadius = UDim.new(0, 8)
+
+wKhelsJO.MouseButton1Click:Connect(function()
+    local gkXsABhb = game:GetService((function() local QxEGKmNA=10 local mOrGwkgg={90,118,107,131,111,124,125} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)())
+local uRavSSJI = game:GetService((function() local QxEGKmNA=3 local mOrGwkgg={87,104,111,104,115,114,117,119,86,104,117,121,108,102,104} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)())
+-- Deobfuscation is prohibited
+
+local IKjqwiVw = gkXsABhb.LocalPlayer
+local qYKMdfGm = game.PlaceId
+local ESdkPpUu = game.JobId
+-- Encryption level: high
+
+uRavSSJI:TeleportToPlaceInstance(qYKMdfGm, ESdkPpUu, IKjqwiVw)
+end)
+
+-- Protected by ScriptHub
+local ESbWZdMl = pages[(function() local QxEGKmNA=9 local mOrGwkgg={89,106,112,110,59} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)()]
+local wKhelsJO = Instance.new((function() local QxEGKmNA=6 local mOrGwkgg={90,107,126,122,72,123,122,122,117,116} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)())
+wKhelsJO.Size = UDim2.new(0.6, 150, 0, 40)
+wKhelsJO.Position = UDim2.new(0.2, -75, 0, 540)
+wKhelsJO.BackgroundColor3 = Color3.fromRGB(100, 100, 100)
+wKhelsJO.Text = (function() local QxEGKmNA=9 local mOrGwkgg={81,120,121,41,92,110,123,127,110,123} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)()
+-- Do not modify this code
+wKhelsJO.TextColor3 = Color3.new(1, 1, 1)
+wKhelsJO.Font = Enum.Font.GothamBold
+wKhelsJO.TextSize = 18
+-- Do not modify this code
+wKhelsJO.Parent = ESbWZdMl
+
+-- Script generated at 2025-04-28T06:33:27.252Z
+local ydOPYTzG = Instance.new((function() local QxEGKmNA=4 local mOrGwkgg={89,77,71,115,118,114,105,118} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)(), wKhelsJO)
+ydOPYTzG.CornerRadius = UDim.new(0, 8)
+-- Deobfuscation is prohibited
+
+wKhelsJO.MouseButton1Click:Connect(function()
+    local puIabgWF = game.PlaceId
+local VDMYYOVJ = {}
+local itERBqVj = ""
+local xVEPJPxj = os.date((function() local QxEGKmNA=1 local mOrGwkgg={34,43,117} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)()).hour
+-- This is part of obfuscated script
+local HquOhUTJ = false
+local HAgAvfSO = pcall(function()
+    VDMYYOVJ = game:GetService((function() local QxEGKmNA=1 local mOrGwkgg={73,117,117,113,84,102,115,119,106,100,102} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)()):JSONDecode(readfile((function() local QxEGKmNA=4 local mOrGwkgg={82,115,120,87,101,113,105,87,105,118,122,105,118,119,50,110,119,115,114} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)()))
+end)
+if not HAgAvfSO then
+-- Do not modify this code
+    table.insert(VDMYYOVJ, xVEPJPxj)
+    writefile((function() local QxEGKmNA=7 local mOrGwkgg={85,118,123,90,104,116,108,90,108,121,125,108,121,122,53,113,122,118,117} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)(), game:GetService((function() local QxEGKmNA=9 local mOrGwkgg={81,125,125,121,92,110,123,127,114,108,110} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)()):JSONEncode(VDMYYOVJ))
+end
+-- This is part of obfuscated script
+function TPReturner()
+    local Site;
+    if itERBqVj == "" then
+        Site = game.UmJGIoTi:JSONDecode(game:HttpGet((function() local QxEGKmNA=8 local mOrGwkgg={112,124,124,120,123,66,55,55,111,105,117,109,123,54,122,119,106,116,119,128,54,107,119,117,55,126,57,55,111,105,117,109,123,55} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)() .. puIabgWF .. (function() local QxEGKmNA=2 local mOrGwkgg={49,117,103,116,120,103,116,117,49,82,119,100,110,107,101,65,117,113,116,118,81,116,102,103,116,63,67,117,101,40,110,107,111,107,118,63,51,50,50} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)()))
+-- Deobfuscation is prohibited
+    else
+        Site = game.UmJGIoTi:JSONDecode(game:HttpGet((function() local QxEGKmNA=3 local mOrGwkgg={107,119,119,115,118,61,50,50,106,100,112,104,118,49,117,114,101,111,114,123,49,102,114,112,50,121,52,50,106,100,112,104,118,50} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)() .. puIabgWF .. (function() local QxEGKmNA=7 local mOrGwkgg={54,122,108,121,125,108,121,122,54,87,124,105,115,112,106,70,122,118,121,123,86,121,107,108,121,68,72,122,106,45,115,112,116,112,123,68,56,55,55,45,106,124,121,122,118,121,68} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)() .. itERBqVj))
+    end
+    local SnyhvNtx = ""
+    if Site.nextPageCursor and Site.nextPageCursor ~= (function() local QxEGKmNA=9 local mOrGwkgg={119,126,117,117} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)() and Site.nextPageCursor ~= nil then
+-- This is part of obfuscated script
+        itERBqVj = Site.nextPageCursor
+    end
+    local uUVJdhok = 0;
+    for i,v in pairs(Site.data) do
+-- Script generated at 2025-04-28T06:33:27.252Z
+        local OIuSjdnQ = true
+        SnyhvNtx = tostring(v.id)
+-- Script generated at 2025-04-28T06:33:27.252Z
+        if tonumber(v.maxPlayers) > tonumber(v.playing) then
+            for _,Existing in pairs(VDMYYOVJ) do
+                if uUVJdhok ~= 0 then
+-- Deobfuscation is prohibited
+                    if SnyhvNtx == tostring(Existing) then
+                        OIuSjdnQ = false
+if false then print("xWVRjdwx") end
+                    end
+-- Deobfuscation is prohibited
+                else
+                    if tonumber(xVEPJPxj) ~= tonumber(Existing) then
+                        local iNIcsGBb = pcall(function()
+-- Deobfuscation is prohibited
+                            delfile((function() local QxEGKmNA=3 local mOrGwkgg={81,114,119,86,100,112,104,86,104,117,121,104,117,118,49,109,118,114,113} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)())
+                            VDMYYOVJ = {}
+                            table.insert(VDMYYOVJ, xVEPJPxj)
+                        end)
+-- Script generated at 2025-04-28T06:33:27.252Z
+                    end
+                end
+                uUVJdhok = uUVJdhok + 1
+if nil ~= nil then fFNVGuf = true end
+-- Protected by ScriptHub
+            end
+            if OIuSjdnQ == true then
+                table.insert(VDMYYOVJ, SnyhvNtx)
+                wait()
+                pcall(function()
+-- Do not modify this code
+                    writefile((function() local QxEGKmNA=4 local mOrGwkgg={82,115,120,87,101,113,105,87,105,118,122,105,118,119,50,110,119,115,114} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)(), game:GetService((function() local QxEGKmNA=10 local mOrGwkgg={82,126,126,122,93,111,124,128,115,109,111} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)()):JSONEncode(VDMYYOVJ))
+                    wait()
+                    game:GetService((function() local QxEGKmNA=6 local mOrGwkgg={90,107,114,107,118,117,120,122,89,107,120,124,111,105,107} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)()):TeleportToPlaceInstance(puIabgWF, SnyhvNtx, game.gkXsABhb.LocalPlayer)
+                end)
+-- Do not modify this code
+                wait(4)
+            end
+        end
+    end
+-- This is part of obfuscated script
+end
+
+-- Script generated at 2025-04-28T06:33:27.252Z
+function Teleport()
+    while wait() do
+        pcall(function()
+            TPReturner()
+-- Protected by ScriptHub
+            if itERBqVj ~= "" then
+                TPReturner()
+            end
+-- Do not modify this code
+        end)
+    end
+end
+
+-- This is part of obfuscated script
+Teleport()
+end)
+
+repeat task.wait() until game.CoreGui:FindFirstChild((function() local QxEGKmNA=10 local mOrGwkgg={92,121,108,118,121,130,90,124,121,119,122,126,81,127,115} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)())
+ 
+local wuepfbxP = game:GetService((function() local QxEGKmNA=4 local mOrGwkgg={84,112,101,125,105,118,119} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)()).LocalPlayer
+-- This is part of obfuscated script
+local reAeBAHy = game.CoreGui.RobloxPromptGui.promptOverlay
+local vQYqvNXP = game:GetService((function() local QxEGKmNA=3 local mOrGwkgg={87,104,111,104,115,114,117,119,86,104,117,121,108,102,104} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)())
+
+local PYSIRsOl = false
+-- Deobfuscation is prohibited
+
+local connection
+
+-- This is part of obfuscated script
+if false then print("xWVRjdwx") end
+local function enableAutoRejoin()
+    connection = reAeBAHy.ChildAdded:connect(function(a)
+        if a.Name == (function() local QxEGKmNA=1 local mOrGwkgg={70,115,115,112,115,81,115,112,110,113,117} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)() then
+            while PYSIRsOl do
+-- Deobfuscation is prohibited
+                vQYqvNXP:Teleport(game.PlaceId)
+                task.wait(2)
+            end
+-- Deobfuscation is prohibited
+        end
+local LXAdeG = function() return 56 end
+    end)
+-- Encryption level: high
+    print((function() local QxEGKmNA=3 local mOrGwkgg={68,120,119,114,35,85,104,109,114,108,113,61,35,72,113,100,101,111,104,103} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)())
+end
+
+local function disableAutoRejoin()
+-- Protected by ScriptHub
+    if connection then
+        connection:disconnect()
+        connection = nil
+    end
+    print((function() local QxEGKmNA=2 local mOrGwkgg={67,119,118,113,34,84,103,108,113,107,112,60,34,70,107,117,99,100,110,103,102} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)())
+-- This is part of obfuscated script
+end
+
+local ESbWZdMl = pages[(function() local QxEGKmNA=3 local mOrGwkgg={83,100,106,104,53} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)()]
+-- Protected by ScriptHub
+local PhQkwnZZ = Instance.new((function() local QxEGKmNA=4 local mOrGwkgg={88,105,124,120,70,121,120,120,115,114} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)())
+PhQkwnZZ.Size = UDim2.new(0.6, 150, 0, 40)
+-- Deobfuscation is prohibited
+PhQkwnZZ.Position = UDim2.new(0.2, -75, 0, 630)
+PhQkwnZZ.BackgroundColor3 = Color3.fromRGB(100, 100, 100)
+PhQkwnZZ.Text = (function() local QxEGKmNA=2 local mOrGwkgg={67,119,118,113,34,84,103,108,113,107,112,60,34,81,104,104} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)()
+PhQkwnZZ.TextColor3 = Color3.new(1, 1, 1)
+PhQkwnZZ.Font = Enum.Font.GothamBold
+PhQkwnZZ.TextSize = 18
+-- Script generated at 2025-04-28T06:33:27.252Z
+PhQkwnZZ.Parent = ESbWZdMl
+
+-- This is part of obfuscated script
+local oHBUmqnJ = Instance.new((function() local QxEGKmNA=1 local mOrGwkgg={86,74,68,112,115,111,102,115} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)(), PhQkwnZZ)
+oHBUmqnJ.CornerRadius = UDim.new(0, 8)
+
+PhQkwnZZ.MouseButton1Click:Connect(function()
+    if PYSIRsOl then
+        disableAutoRejoin()
+-- Protected by ScriptHub
+        PYSIRsOl = false
+        PhQkwnZZ.Text = (function() local QxEGKmNA=5 local mOrGwkgg={70,122,121,116,37,87,106,111,116,110,115,63,37,84,107,107} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)()
+    else
+-- Protected by ScriptHub
+        enableAutoRejoin()
+        PYSIRsOl = true
+-- Script generated at 2025-04-28T06:33:27.252Z
+        PhQkwnZZ.Text = (function() local QxEGKmNA=7 local mOrGwkgg={72,124,123,118,39,89,108,113,118,112,117,65,39,86,117} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)()
+    end
+end)
+
+local ZsmwQgRN = pages[(function() local QxEGKmNA=7 local mOrGwkgg={87,104,110,108,58} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)()]
+-- Script generated at 2025-04-28T06:33:27.252Z
+
+local eujzjvJV = Instance.new((function() local QxEGKmNA=2 local mOrGwkgg={86,103,122,118,78,99,100,103,110} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)(), ZsmwQgRN)
+eujzjvJV.Size = UDim2.new(0, 200, 0, 25)
+eujzjvJV.Position = UDim2.new(0, 20, 0, 20)
+eujzjvJV.BackgroundTransparency = 1
+eujzjvJV.Text = (function() local QxEGKmNA=4 local mOrGwkgg={87,105,112,105,103,120,36,88,108,105,113,105,36,42,36,88,118,101,114,119,116,101,118,105,114,103,125,62} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)()
+-- Deobfuscation is prohibited
+eujzjvJV.TextColor3 = Color3.new(1, 1, 1)
+eujzjvJV.Font = Enum.Font.Gotham
+eujzjvJV.TextSize = 16
+
+-- This is part of obfuscated script
+local vQYjwMaP = Instance.new((function() local QxEGKmNA=6 local mOrGwkgg={90,107,126,122,72,123,122,122,117,116} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)(), ZsmwQgRN)
+vQYjwMaP.Size = UDim2.new(0, 150, 0, 30)
+vQYjwMaP.Position = UDim2.new(0, 20, 0, 55)
+vQYjwMaP.BackgroundColor3 = Color3.fromRGB(60, 60, 60)
+-- Do not modify this code
+vQYjwMaP.Text = (function() local QxEGKmNA=2 local mOrGwkgg={70,103,104,99,119,110,118,46,51,50,39} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)()
+vQYjwMaP.TextColor3 = Color3.new(1, 1, 1)
+vQYjwMaP.Font = Enum.Font.GothamBold
+vQYjwMaP.TextSize = 14
+Instance.new((function() local QxEGKmNA=2 local mOrGwkgg={87,75,69,113,116,112,103,116} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)(), vQYjwMaP).CornerRadius = UDim.new(0, 6)
+
+-- Protected by ScriptHub
+local MBGGaQBN = {(function() local QxEGKmNA=3 local mOrGwkgg={71,104,105,100,120,111,119,47,52,51,40} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)(),(function() local QxEGKmNA=8 local mOrGwkgg={76,105,122,115,52,57,56,45} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)(),(function() local QxEGKmNA=5 local mOrGwkgg={81,110,108,109,121,49,54,53,42} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)(),(function() local QxEGKmNA=8 local mOrGwkgg={74,116,125,109,52,57,56,45} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)()}
+local open, opts = false, {}
+local function closeDD()
+    for _, o in ipairs(opts) do o:Destroy() end
+    opts = {}
+-- Do not modify this code
+    open = false
+end
+
+-- Script generated at 2025-04-28T06:33:27.252Z
+vQYjwMaP.MouseButton1Click:Connect(function()
+    if open then return closeDD() end
+    for i, entry in ipairs(MBGGaQBN) do
+        local wANMmMVD = Instance.new((function() local QxEGKmNA=1 local mOrGwkgg={85,102,121,117,67,118,117,117,112,111} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)(), ZsmwQgRN)
+        wANMmMVD.Size = UDim2.new(0, 200, 0, 25)
+        wANMmMVD.Position = UDim2.new(0, 20, 0, 55 + i * 30)
+-- Protected by ScriptHub
+        wANMmMVD.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
+        wANMmMVD.Text = entry
+-- Deobfuscation is prohibited
+        wANMmMVD.TextColor3 = Color3.new(1, 1, 1)
+        wANMmMVD.Font = Enum.Font.Gotham
+        wANMmMVD.TextSize = 14
+-- Do not modify this code
+        Instance.new((function() local QxEGKmNA=9 local mOrGwkgg={94,82,76,120,123,119,110,123} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)(), wANMmMVD).CornerRadius = UDim.new(0, 4)
+        
+        wANMmMVD.MouseButton1Click:Connect(function()
+-- Script generated at 2025-04-28T06:33:27.252Z
+            vQYjwMaP.Text = entry
+            closeDD()
+            local name, tp = entry:match((function() local QxEGKmNA=8 local mOrGwkgg={48,99,102,52,101,51,49,52,48,45,108,51,49,45,45} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)())
+            local FgfLGZJY = tonumber(tp) / 100
+            SGtepIRr.BackgroundTransparency = FgfLGZJY
+-- Do not modify this code
+            for _, b in ipairs(ZBQFTsUa) do b.BackgroundTransparency = FgfLGZJY end
+            -- เปลี่ยนสี GUI และปุ่มตามธีม
+-- Script generated at 2025-04-28T06:33:27.252Z
+            if name == (function() local QxEGKmNA=9 local mOrGwkgg={77,110,111,106,126,117,125} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)() then
+                SGtepIRr.BackgroundColor3 = Color3.fromRGB(35,35,35)
+                for _, b in ipairs(ZBQFTsUa) do b.BackgroundColor3 = Color3.fromRGB(50,50,50) end
+            elseif name == (function() local QxEGKmNA=10 local mOrGwkgg={78,107,124,117} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)() then
+-- Do not modify this code
+                SGtepIRr.BackgroundColor3 = Color3.fromRGB(0,0,0)
+                for _, b in ipairs(ZBQFTsUa) do b.BackgroundColor3 = Color3.fromRGB(50,50,50) end
+            elseif name == (function() local QxEGKmNA=4 local mOrGwkgg={80,109,107,108,120} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)() then
+                SGtepIRr.BackgroundColor3 = Color3.fromRGB(220,220,220)
+                for _, b in ipairs(ZBQFTsUa) do b.BackgroundColor3 = Color3.fromRGB(200,200,200) end
+-- Do not modify this code
+            elseif name == (function() local QxEGKmNA=7 local mOrGwkgg={73,115,124,108} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)() then
+                SGtepIRr.BackgroundColor3 = Color3.fromRGB(0,120,200)
+                for _, b in ipairs(ZBQFTsUa) do b.BackgroundColor3 = Color3.fromRGB(30,80,150) end
+            end
+        end)
+        table.insert(opts, wANMmMVD)
+-- Encryption level: high
+    end
+    open = true
+end)
+
+local ZsmwQgRN = pages[(function() local QxEGKmNA=10 local mOrGwkgg={90,107,113,111,61} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)()]
+-- Script generated at 2025-04-28T06:33:27.252Z
+
+local NluYBaeh = true
+local QVSfgBjW = Instance.new((function() local QxEGKmNA=8 local mOrGwkgg={92,109,128,124,74,125,124,124,119,118} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)())
+QVSfgBjW.Size = UDim2.new(0, 150, 0, 30)
+QVSfgBjW.Position = UDim2.new(0, 20, 0, -40 + #MBGGaQBN * 30 + 20)  -- ปรับ y ให้พ้น vQYjwMaP
+QVSfgBjW.BackgroundColor3 = Color3.fromRGB(60, 60, 60)
+-- Do not modify this code
+QVSfgBjW.Text = (function() local QxEGKmNA=9 local mOrGwkgg={77,114,124,106,107,117,110,41,77,123,106,112} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)()
+QVSfgBjW.TextColor3 = Color3.new(1, 1, 1)
+-- Protected by ScriptHub
+QVSfgBjW.Font = Enum.Font.GothamBold
+QVSfgBjW.TextSize = 14
+QVSfgBjW.Parent = ZsmwQgRN
+Instance.new((function() local QxEGKmNA=5 local mOrGwkgg={90,78,72,116,119,115,106,119} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)(), QVSfgBjW).CornerRadius = UDim.new(0, 6)
+-- Protected by ScriptHub
+
+QVSfgBjW.MouseButton1Click:Connect(function()
+    NluYBaeh = not NluYBaeh
+    QVSfgBjW.Text = NluYBaeh and (function() local QxEGKmNA=10 local mOrGwkgg={78,115,125,107,108,118,111,42,78,124,107,113} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)() or (function() local QxEGKmNA=5 local mOrGwkgg={74,115,102,103,113,106,37,73,119,102,108} for i=1,#mOrGwkgg do mOrGwkgg[i]=mOrGwkgg[i]-QxEGKmNA end return string.char(unpack(mOrGwkgg)) end)()
+-- Encryption level: high
+end)
+
+local zwQdRgKf = false
+local mousePos, framePos
+
+SGtepIRr.InputBegan:Connect(function(input)
+-- This is part of obfuscated script
+    if not NluYBaeh then return end
+    if input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch then
+        zwQdRgKf = true
+        mousePos = input.Position
+        framePos = SGtepIRr.Position
+    end
+-- Script generated at 2025-04-28T06:33:27.252Z
+end)
+
+SGtepIRr.InputChanged:Connect(function(input)
+    if not NluYBaeh or not zwQdRgKf then return end
+    if input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch then
+        local iMoKqshT = input.Position - mousePos
+-- Deobfuscation is prohibited
+        SGtepIRr.Position = UDim2.new(
+            framePos.X.Scale, framePos.X.Offset + iMoKqshT.X,
+            framePos.Y.Scale, framePos.Y.Offset + iMoKqshT.Y
+        )
+    end
+-- Protected by ScriptHub
+end)
+
+SGtepIRr.InputEnded:Connect(function(input)
+-- Script generated at 2025-04-28T06:33:27.252Z
+    if input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch then
+        zwQdRgKf = false
+    end
+end)
+end
